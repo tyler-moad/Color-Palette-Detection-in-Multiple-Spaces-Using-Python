@@ -1,5 +1,5 @@
 ## Color Palette Detection in Multiple Spaces Using Python
-------
+
 
 In this project, I extract color palettes from different images using different color spaces namely: ** RGB ** (red,green,blue) , **HSV** (hue, saturation, value), ** HSL ** (hue, saturation,lightness) and ** LAB ** (CIELAB), . 
 
