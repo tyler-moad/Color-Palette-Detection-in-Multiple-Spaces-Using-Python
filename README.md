@@ -5,4 +5,4 @@ In this project, I extract color palettes from different images using different 
 
 The extraction is performed using unsupervised machine learning algorithms, here we choose to apply k-means on colored pixels of the image.
 
- 	![alt text](example.png)
+![alt text](example.png)
